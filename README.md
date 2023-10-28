@@ -18,7 +18,7 @@
   </p>
 </div>
 <br/>
-<img align="right" alt="dani-avatar" Width="350"; src="https://github.com/dnlaMrno/dnlaMrno/blob/main/dani.jpg">
+<img align="right" alt="dani-avatar" Width="330"; src="https://github.com/dnlaMrno/dnlaMrno/blob/main/dani.jpg">
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dnlaMrno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <br/>
@@ -40,4 +40,3 @@
 </a>
 <hr>
 <h1 align="left">REPOSITORIES</h1>
-🔽      🔽      🔽       🔽 
