@@ -18,7 +18,7 @@
   </p>
 </div>
 <br/>
-<img align="right" alt="dani-avatar" Width="300" src="https://github.com/dnlaMrno/dnlaMrno/blob/main/dani.jpg">
+<img align="right" alt="dani-avatar" Width="320" src="https://github.com/dnlaMrno/dnlaMrno/blob/main/dani.jpg">
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dnlaMrno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <br/>
@@ -33,3 +33,10 @@
   </a>
 </p>
 <hr>
+<h1 align="left">PORTAFOLIO</h1>
+<a href="https://github.com/dnlaMrno/Portafolio-DP">
+  <br/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dnlaMrno&repo=Portafolio-DP&theme=onedark" />
+</a>
+<hr>
+<h1 align="left">REPOSITORIES</h1>
